@@ -821,7 +821,7 @@ CCTV风云音乐,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e9
 MTV,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709243.m3u8
 MUSIC ON!,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709244.m3u8
 歌謡ポップスチャンネル,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709259.m3u8
-私密頻道_1688,#genre#
+私密頻道_1688,#genre#oo
 Happy,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709091.m3u8
 JStar極限台電影頻道,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709086.m3u8
 K 頻道,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709040.m3u8
