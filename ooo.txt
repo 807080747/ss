@@ -821,17 +821,17 @@ CCTV风云音乐,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e9
 MTV,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709243.m3u8
 MUSIC ON!,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709244.m3u8
 歌謡ポップスチャンネル,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709259.m3u8
-私密頻道_168,_#genre#
-Happy,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709091.m3u8
-JStar極限台電影頻道,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709086.m3u8
-K 頻道,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709040.m3u8
-彩虹頻道,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709085.m3u8
-松視2台,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709044.m3u8
-松視3台,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709084.m3u8
-香蕉台,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476372.m3u8
-玩家頻道,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476377.m3u8
-樂活頻道,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476379.m3u8
-LOOK,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/481453.m3u8
-奥视频道2,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476376.m3u8
-erox,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/644724.m3u8
-eroxxx,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/644725.m3u8
+私密頻道_168,#genre#
+Happy,uhttps://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709091.m3u8
+JStar極限台電影頻道,uhttps://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709086.m3u8
+K 頻道,uhttps://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709040.m3u8
+彩虹頻道,uhttps://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709085.m3u8
+松視2台,uhttps://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709044.m3u8
+松視3台,uhttps://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709084.m3u8
+香蕉台,uhttps://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476372.m3u8
+玩家頻道,uhttps://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476377.m3u8
+樂活頻道,uhttps://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476379.m3u8
+LOOK,uhttps://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/481453.m3u8
+奥视频道2,uhttps://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476376.m3u8
+erox,uhttps://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/644724.m3u8
+eroxxx,uhttps://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/644725.m3u8
